@@ -1,5 +1,4 @@
-# To-Do-App
-# 📝 To‑Do App
+# To-Do-App📝 
 
 A simple and clean To‑Do application built with **HTML**, **CSS**, and **JavaScript**.  
 This project allows users to add tasks, remove tasks, and manage their daily activities in a lightweight interface.
